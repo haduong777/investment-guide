@@ -1,0 +1,7 @@
+# Visual review and test artifacts
+work/*.png
+work/test-planning-worksheet.txt
+
+# Local operating-system metadata
+.DS_Store
+.playwright-mcp/
